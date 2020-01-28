@@ -17,3 +17,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 12.0
+
+[submodule "ksolves-store/web_listview_sticky_header"]
+	path = ksolves-store/web_listview_sticky_header
+	url = git@github.com:ksolves-store/web_listview_sticky_header.git
+	branch = 12.0
