@@ -2,3 +2,8 @@
 	path = odoo-mastercore/l10n_ar
 	url = git@github.com:odoo-mastercore/l10n_ar.git
 	branch = 12.0
+
+[submodule "odoo-mastercore/gt_bundle_product"]
+	path = odoo-mastercore/gt_bundle_product
+	url = git@github.com:odoo-mastercore/gt_bundle_product.git
+	branch = 12.0
